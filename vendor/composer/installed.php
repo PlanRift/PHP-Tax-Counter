@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'pph21/calculate',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'name' => 'planrift/pajakcounter',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '0535431fad350c9e969a5fa98f22fe2630ec3b87',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'pph21/calculate' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+        'planrift/pajakcounter' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '0535431fad350c9e969a5fa98f22fe2630ec3b87',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
